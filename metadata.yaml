@@ -1,0 +1,53 @@
+_repo: A-Popular-History-of-France-from-the-Earliest-Times-Volume-6_11956
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Neuville, Alphonse Marie de
+    aliases:
+    - Neuville, A. de (Alphonse)
+    - Neuville, de
+    - De Neuville, Alphonse Marie
+    birthdate: 1835
+    deathdate: 1885
+    gutenberg_agent_id: '7311'
+    url: http://www.gutenberg.org/2009/agents/7311
+  translator:
+    agent_name: Black, Robert
+    deathdate: 1915
+    gutenberg_agent_id: '33566'
+    url: http://www.gutenberg.org/2009/agents/33566
+covers:
+- cover_type: archival
+  image_path: 11956/11956-h/images/title.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Guizot, François
+    aliases:
+    - Guizot, M. (François)
+    - Guisot, M. (François)
+    - Guizot, Monsieur (François)
+    - Guizot, François Pierre Guillaume
+    - Guizot, Francois Pierre Guillaume
+    birthdate: 1787
+    deathdate: 1874
+    gutenberg_agent_id: '5686'
+    url: http://www.gutenberg.org/2009/agents/5686
+    wikipedia: http://en.wikipedia.org/wiki/François_Guizot
+description: ''
+gutenberg_bookshelf: France
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11956'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- History'
+- GITenberg
+title: A Popular History of France from the Earliest Times, Volume 6
+url: http://www.gutenberg.org/ebooks/11956
