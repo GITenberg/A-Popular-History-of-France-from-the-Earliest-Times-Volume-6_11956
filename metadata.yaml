@@ -1,5 +1,5 @@
 _repo: A-Popular-History-of-France-from-the-Earliest-Times-Volume-6_11956
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Neuville, Alphonse Marie de
@@ -17,10 +17,8 @@ contributor:
     gutenberg_agent_id: '33566'
     url: http://www.gutenberg.org/2009/agents/33566
 covers:
-- cover_type: archival
-  image_path: 11956/11956-h/images/title.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Guizot, François
@@ -36,6 +34,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5686
     wikipedia: http://en.wikipedia.org/wiki/François_Guizot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11956#A-Popular-History-of-France-from-the-Earliest-Times-Volume-6
 gutenberg_bookshelf: France
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
